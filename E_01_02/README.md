@@ -1,4 +1,4 @@
-# Algoritmo de freir un huevo
+# Algoritmo para freir un huevo
 
 ## INICIO
 
