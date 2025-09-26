@@ -1,1 +1,1 @@
-[ejercicio_2] (E_01_02/README.md)
+[ejercicio_2](E_01_02/README.md)
